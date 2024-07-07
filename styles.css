@@ -16,7 +16,7 @@ html {
 }
 
 h1, #display, button ,p{
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Comic Sans MS';
 }
 img {
     margin-bottom: -4px;
